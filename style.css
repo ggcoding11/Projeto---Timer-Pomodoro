@@ -1,0 +1,10 @@
+/* COR DO POMODORO - rgb(189, 72, 72); */
+
+body{
+  font-family: 'Lexend';
+  background-color: rgb(226, 96, 96);
+}
+
+.navbar-brand{
+  color: white;
+}
