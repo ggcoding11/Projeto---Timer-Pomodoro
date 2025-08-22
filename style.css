@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Coiny&family=Poppins:wght@100;400&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
 
+button {
+    all: unset;
+}
+
 body * {
     border: 1px solid blue;
 }
@@ -12,6 +16,18 @@ a.navbar-brand, a.navbar-brand:hover {
     color: white;
     font-family: "Roboto";
     font-weight: bold;
+}
+
+div.button-group {
+    display: flex;
+}
+
+button img {
+    width: 30%;
+}
+
+button.btn-threedots {
+    width: 24%;
 }
 
 
