@@ -1,49 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Coiny&family=Poppins:wght@100;400&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
 
-body * {
-    border: 1px solid blue;
-}
-
-button {
-    all: unset; 
-    /* Reset do estilo padrão do botão */
-}
-
-body, .navbar {
+body {
   background-color: rgb(186, 73, 73);
 }
 
-a.navbar-brand:link, a.navbar-brand:visited, a.navbar-brand:hover, a.navbar-brand:active {
-    color: white;
-    font-family: "Roboto";
-    font-weight: bold;
-}
-
-button {
-    background-color: rgba(255, 255, 255, 0.13);
-}
-
-.botoes {
-    padding: 1%;
-}
-
-.btn-graph, .btn-config, .btn-user {
-    width: 18%;
-    padding: 1%;
-}
-
-.btn-threedots {
-    padding: 1%;
-    text-align: center;
-    
-}
-
-button img {
-    width: 26%;
-}
-
-button img.threedots {
-    width: 32%;
-}
 
 
